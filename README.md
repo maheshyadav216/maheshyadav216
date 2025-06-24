@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Mahesh</h1>
-<h3 align="center">A Passionate Tech Content Creator, Tinkerer & Tech Explorer</h3>
+<h3 align="center">A Passionate Tech Content Creator, Maker, Tinkerer & Tech Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;IoT+%7C+AI+%7C+Open+Source+%7C+Maker;Let's+build+something+awesome!" alt="Typing SVG" />
