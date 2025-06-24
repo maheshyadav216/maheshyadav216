@@ -18,7 +18,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently working on **IoT + AI projects** that empower independent living  
-- 🌱 Exploring **ESP32**,**Raspberry Pi**, **UNIHIKER**, **Jetson Nano**,**Matter** and **MediaPipe**  
+- 🌱 Exploring **ESP32**,**Raspberry Pi**, **UNIHIKER**, **Jetson Nano**, **Matter** and **MediaPipe**  
 - 💡 Love automating things, experimenting with edge devices, and making ideas come alive  
 - 🧠 Interested in **Comparative Cognition**, **Human Behavior Analysis**, and **Assistive Tech**  
 - 💬 Ask me about: `Microcontrollers`, `Python`, `OpenCV`, `Embedded AI`, `UI/UX for IoT`  
