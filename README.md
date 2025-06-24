@@ -52,7 +52,7 @@
 
 ### 🎥 Featured YouTube Content
 
-- 🔉 Embedded Voice-AI with DFRobot Sensor  
+- 🔉 [AI-Powered ANPR System using DFRobot's ESP32-S3 AI Cam & Gemini API](https://youtu.be/Wf6Rw2O5oBU)
 - 🧪 Project demos from Hackster.io  
 - 📦 Gadget unboxings, tech reviews, and STEM shorts  
 
