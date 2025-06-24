@@ -2,26 +2,27 @@
 <h3 align="center">A Passionate Tech Content Creator, Tinkerer & Tech Explorer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;IoT+%7C+AI+%7C+Open+Source+%7C+Maker;Let's+build+something+awesome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;IoT+%7C+AI+%7C+Open+Source+%7C+Maker;Let's+build+something+awesome!" alt="Typing SVG" />
 </p>
+
 ---
 
 ### 💼 Who I Am
 
-- ⚙️ Embedded systems and IoT enthusiast active on **GitHub** (17+ repos) :contentReference[oaicite:1]{index=1}  
-- ✏️ Maker & content creator on **Hackster.io** with 15 published hardware projects :contentReference[oaicite:2]{index=2}  
-- 📹 Educator and reviewer on **YouTube** (89 subs, 11+ videos) :contentReference[oaicite:3]{index=3}  
+- ⚙️ Embedded Systems and IoT enthusiast active on **GitHub**
+- ✏️ Maker & content creator on **Hackster.io** with 15+ hardware projects  
+- 📹 Educator and reviewer on **YouTube** (Tutorials, STEM Shorts, Reviews)
 
 ---
 
-### 👨‍💻 About Me:
+### 👨‍💻 About Me
 
 - 🔭 Currently working on **IoT + AI projects** that empower independent living  
 - 🌱 Exploring **ESP32**, **UNIHIKER**, **Jetson Nano**, and **YOLOv5**  
 - 💡 Love automating things, experimenting with edge devices, and making ideas come alive  
-- 🧠 Interested in **Comparative Cognition**, **Human Behavior Analysis**, and **Assistive Tech**
-- 💬 Ask me about: `Microcontrollers`, `Python`, `OpenCV`, `Embedded AI`, `UI/UX for IoT`
-- 📝 I write blogs and tutorials on [Hackster](https://www.hackster.io/maheshyadav216) & [GitHub Pages](#)
+- 🧠 Interested in **Comparative Cognition**, **Human Behavior Analysis**, and **Assistive Tech**  
+- 💬 Ask me about: `Microcontrollers`, `Python`, `OpenCV`, `Embedded AI`, `UI/UX for IoT`  
+- 📝 I write blogs and tutorials on [Hackster](https://www.hackster.io/maheshyadav216) & [GitHub Pages](#)  
 - ⚡ Fun fact: I drink more coffee than a robot needs electricity ☕🤖
 
 ---
@@ -29,54 +30,52 @@
 ### 🔧 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,esp32,raspberrypi,ble,iot,linux,git,github,vscode,platformio,docker,html,css,js,nodejs,mysql,sqlite,figma" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,esp32,raspberrypi,linux,git,github,vscode,platformio,docker,html,css,js,nodejs,mysql,sqlite,figma" />
 </p>
 
 ---
 
 ### 🧠 Top Projects
 
-Here are a few pinned projects worth checking out:
-
 - 🚨 [CompanionCare: Empowering Independence](https://github.com/MaheshY/CompanionCare)  
 - 🎮 [ESP32S3 Retro Game Console](https://github.com/MaheshY/ESP32S3-Game-Console)  
 - 🧠 [Fall Detection with M5StickC](https://github.com/MaheshY/Fall-Detection-M5StickC)
-  
-| Project | What it Does | Tech Highlights |
-|-------|----------------|------------------|
-| **CompanionCare: Empowering Independence** | Wearable assistive device (voice locator, fall/SOS alerts) :contentReference[oaicite:4]{index=4} | UNIHIKER, M5StickC, BLE & Voice AI |
-| **DFRobot Offline Voice Recognition Sensor** | Voice‑controlled home/robotic automations :contentReference[oaicite:5]{index=5} | Arduino, offline ASR, relay control |
-| **Smart Classroom Environment System** | IoT solution to monitor classroom air quality :contentReference[oaicite:6]{index=6} | DFRobot sensors, Nextion, Arduino Cloud |
-| **Voice Assistant Waiter (Restaurant)** | On‑table voice ordering interface :contentReference[oaicite:7]{index=7} | ESP32, Nextion, offline Voice AI |
-  
+
+| Project | What It Does | Tech Highlights |
+|--------|---------------|------------------|
+| **CompanionCare** | Wearable assistive device (voice locator, fall/SOS alerts) | UNIHIKER, M5StickC, BLE, Voice AI |
+| **Offline Voice Assistant** | Voice-controlled home/robotic automations | Arduino, ASR-9600, Relay |
+| **Smart Classroom System** | IoT system for monitoring classroom air quality | DFRobot sensors, Nextion, Arduino Cloud |
+| **Restaurant Waiter Bot** | On-table voice ordering system | ESP32, Nextion, Offline Voice AI |
+
 ---
-  
+
 ### 🎥 Featured YouTube Content
 
-- Embedded voice‑AI on the DFRobot sensor  
-- Hackster project demos & tutorials  
-- Gadget unboxings, mini‑reviews, and STEM shorts
+- 🔉 Embedded Voice-AI with DFRobot Sensor  
+- 🧪 Project demos from Hackster.io  
+- 📦 Gadget unboxings, tech reviews, and STEM shorts  
 
-_Check out the **Videos** & **Shorts** sections on my channel_ :contentReference[oaicite:8]{index=8}
+👉 Check out my channel: [@maheshyadav-216](https://www.youtube.com/@maheshyadav-216)
 
 ---
-
 
 ### 📝 Featured Tutorials
 
-> “Getting started with DFRobot Offline Voice Recognition Sensor” – demo & learning guide :contentReference[oaicite:9]{index=9}  
+> “Getting Started with DFRobot Offline Voice Recognition Sensor” – a hands-on demo  
 >  
-> “Smart Classroom Environment Management System” – an IoT solution for healthier learning spaces :contentReference[oaicite:10]{index=10}  
+> “Smart Classroom Environment System” – an IoT setup for healthier learning  
 
-Explore more in my Hackster collection!
+🧾 Explore more on [Hackster.io](https://www.hackster.io/maheshyadav216)
 
 ---
-  
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheshyadav216&show_icons=true&theme=github_dark&count_private=false&hide_border=true" alt="Mahesh's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshyadav216&theme=github-dark&hide_border=true" alt="GitHub streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=maheshyadav216&show_icons=true&theme=github_dark&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshyadav216&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -85,9 +84,10 @@ Explore more in my Hackster collection!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maheshy/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mahesh@example.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/MaheshY"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" /></a>
-  <a href="https://hackster.io/MaheshY"><img src="https://img.shields.io/badge/Hackster-1BA0D7?logo=hackster&logoColor=white" /></a>
+  <a href="mailto:maheshyadav216@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/maheshyadav216"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" /></a>
+  <a href="https://www.hackster.io/maheshyadav216"><img src="https://img.shields.io/badge/Hackster-1BA0D7?logo=hackster&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@maheshyadav-216"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" /></a>
 </p>
 
 ---
@@ -95,10 +95,10 @@ Explore more in my Hackster collection!
 ### 🎨 Aesthetic Touch
 
 <details>
-<summary>📽️ Click for Dev-Themed Quote</summary>
+<summary>📽️ Click for Dev-Themed Quotes</summary>
 
-> *“The best way to predict the future is to invent it.”* – Alan Kay  
-> *“Code is like humor. When you have to explain it, it’s bad.”*
+> “The best way to predict the future is to invent it.” – Alan Kay  
+> “Code is like humor. When you have to explain it, it’s bad.”
 
 </details>
 
@@ -106,27 +106,23 @@ Explore more in my Hackster collection!
 
 ### 🌟 Why I Do This
 
-- I’m passionate about **embedded AI & assistive tech** for real-world impact  
-- I love to **teach & simplify** complex ideas for makers and hobbyists  
-- I’m building a portfolio of **hands-on projects** that combine innovation with usability  
+- Passionate about **assistive tech & embedded AI**  
+- Love to **teach, simplify & inspire** new makers  
+- Building hands-on projects that merge **function with purpose**
 
-Feel free to **reach out, collaborate, or just say hi!**
+Let’s make technology accessible, useful, and fun!
 
 ---
 
 ### 💬 Let's Innovate Together
 
-Building something awesome? Want to co-create a tutorial or a device?
-**Drop a message or open an issue** — I'd love to connect!
+Building something awesome? Want to collaborate?
+**Open an issue or drop a message** — let’s connect and create!
+
+---
+
+### 👀 Visitor Counter
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maheshyadav216&style=flat-square&color=blue" alt="Visitor Count"/>
-</p>
-  
----
-  
-### 💖 Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MaheshY&style=flat-square&color=blue" alt="visitor count"/>
 </p>
