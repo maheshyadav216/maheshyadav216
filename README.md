@@ -10,7 +10,7 @@
 ### 💼 Who I Am
 
 - ⚙️ Embedded Systems and IoT enthusiast active on **GitHub**
-- ✏️ Maker & content creator on **Hackster.io** with 15+ hardware projects  
+- ✏️ Maker & Content Creator on **Hackster.io** with 15+ hardware projects  
 - 📹 Educator and reviewer on **YouTube** (Tutorials, STEM Shorts, Reviews)
 
 ---
