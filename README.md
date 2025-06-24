@@ -86,7 +86,7 @@
   <a href="https://github.com/maheshyadav216"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" /></a>
   <a href="https://www.hackster.io/maheshyadav216"><img src="https://img.shields.io/badge/Hackster-1BA0D7?logo=hackster&logoColor=white" /></a>
   <a href="https://www.youtube.com/@maheshyadav-216"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" /></a>
-  <a href="https://x.com/celeritas216"><img src="https://img.shields.io/badge/X-1DA1F2?logo=twitter&logoColor=white" /></a>
+  <a href="https://twitter.com/celeritas216"><img src="https://img.shields.io/badge/X-1DA1F2?logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
