@@ -75,7 +75,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maheshyadav216&show_icons=true&theme=github_dark&count_private=true&hide_border=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=maheshyadav216&theme=dark&hide_border=true" alt="GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?maheshyadav216=DenverCoder1)](https://git.io/streak-stats)
 </p>
 
 ---
