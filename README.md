@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Mahesh Y</h1>
+<h1 align="center">Hi there 👋, I'm Mahesh</h1>
 <h3 align="center">A Passionate Tech Content Creator, Tinkerer & Tech Explorer</h3>
 
 <p align="center">
