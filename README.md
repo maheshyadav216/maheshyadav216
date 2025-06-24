@@ -37,9 +37,9 @@
 
 ### 🧠 Top Projects
 
-- 🚨 [CompanionCare: Empowering Independence](https://github.com/MaheshY/CompanionCare)  
-- 🎮 [ESP32S3 Retro Game Console](https://github.com/MaheshY/ESP32S3-Game-Console)  
-- 🧠 [Fall Detection with M5StickC](https://github.com/MaheshY/Fall-Detection-M5StickC)
+- 🚨 [CompanionCare: Empowering Independence](https://www.hackster.io/maheshyadav216/companioncare-empowering-independence-11e267)  
+- 🎮 [Smart Waiter - Intelligent Voice Assistant in Restaurant](https://www.hackster.io/maheshyadav216/smart-waiter-intelligent-voice-assistant-in-restaurant-1ad872)  
+- 🧠 [Embedded Vision AI based Zoo Security Guard](https://www.hackster.io/maheshyadav216/embedded-vision-ai-based-zoo-security-guard-e4c0da)  
 
 | Project | What It Does | Tech Highlights |
 |--------|---------------|------------------|
