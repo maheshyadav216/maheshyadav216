@@ -81,7 +81,7 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/maheshy/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/maheshyadav216/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:maheshyadav216@hotmail.com"><img src="https://img.shields.io/badge/Email-Hotmail-blue?logo=microsoftoutlook&logoColor=white" /></a>
   <a href="https://github.com/maheshyadav216"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" /></a>
   <a href="https://www.hackster.io/maheshyadav216"><img src="https://img.shields.io/badge/Hackster-1BA0D7?logo=hackster&logoColor=white" /></a>
