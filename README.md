@@ -120,7 +120,7 @@ Building something awesome? Want to collaborate?
 
 ---
 
-### 👀 Visitor Counter
+<h3 align="center">👀 Visitor Counter</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maheshyadav216&style=flat-square&color=blue" alt="Visitor Count"/>
